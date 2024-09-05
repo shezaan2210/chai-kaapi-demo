@@ -7,7 +7,7 @@ const geistSans = localFont({
   weight: "100 900",
 });
 const geistMono = localFont({
-  src: "./fonts/Voyage-Bold2.ttf",
+  src: "./fonts/Voyage-Bold 2.ttf",
   variable: "--font-geist-mono",
   weight: "100 900",
 });
